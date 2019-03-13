@@ -1,2 +1,0 @@
-# useChuckNorris
-Created with CodeSandbox
